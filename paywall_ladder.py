@@ -2,7 +2,6 @@ import requests
 import tempfile
 import webbrowser
 import time
-#from bs4 import BeautifulSoup
 
 while True:
     url = input('\nUrl: ').split('?', 1)[0]
